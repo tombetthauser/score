@@ -1,0 +1,17 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: monospace;
+	margin-top: 15%;
+	text-align: center;
+}
+button {
+	font-family: monospace;
+	height: 20px;
+}
+span {
+	padding: 5px 5px 2px 5px;
+}
+.winner {
+	border: 2px solid white;
+}
